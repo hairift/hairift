@@ -1,0 +1,9 @@
+# File & folder lokal (tidak untuk dipublikasikan)
+.workbuddy-ai/
+preview.html
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
