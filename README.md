@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Arif%20Triyana&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20IoT%20%7C%20AI%20%26%20Robotics&descAlignY=54&descSize=18&descAlign=50" alt="Banner Muhammad Arif Triyana" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Muhammad%20Arif%20Triyana&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Mobile%20%7C%20IoT%20%7C%20AI%20%26amp%3B%20Robotics&descAlignY=54&descSize=18&descAlign=50" alt="Banner Muhammad Arif Triyana" />
 </div>
 
 <div align="center">
